@@ -29,7 +29,7 @@
 * [光阴的故事](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639252&idx=1&sn=bbf78e3ed807f77a04fc9bd10a5d98c6&chksm=879dc0bbb0ea49adf31cb4bb6b3307472f08bdc6d443ee77c3b2bf23929d131315e0dd90e8c1#rd)
 
 ### ChangeLog
-2018-06-08 增添自己的故事
+2018-06-08 增添自己的故事  
 2018-06-03 增添网易云音乐歌单  
 2018-05-27 增添我的豆列、素封老师情感故事  
 2018-05-27 创建
