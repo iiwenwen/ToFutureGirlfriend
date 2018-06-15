@@ -28,7 +28,20 @@
 * [你好哇，情感](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639261&idx=1&sn=35afc9effa2f010ee36d34b32ec3edea&chksm=879dc0b2b0ea49a4f6f044740b1a152245440ae3b56a5602ba0d385cdd66819ebc56791bf449#rd)
 * [光阴的故事](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639252&idx=1&sn=bbf78e3ed807f77a04fc9bd10a5d98c6&chksm=879dc0bbb0ea49adf31cb4bb6b3307472f08bdc6d443ee77c3b2bf23929d131315e0dd90e8c1#rd)
 
+## 其他故事
+
+### 偶然间发现王烁老婆推的笔记文
+
+* [跟王烁「老婆推」学记趣和爱 · 杂记 | ishanshan's blog](http://ishanshan.top/selfedu/TipsLiveAFascinatingLife.html)
+* [王烁老婆推精选 - WorkFlowy](https://workflowy.com/s/CO_N.3qiR2I8Pry)
+
+### 王烁的老婆推
+
+* [老婆推专门博开博_王烁_新浪博客](http://blog.sina.com.cn/s/blog_61c51bd70100k7ka.html)
+
 ### ChangeLog
+
+2018-06-15 增添王烁老婆推相关文章  
 2018-06-08 增添自己的故事  
 2018-06-03 增添网易云音乐歌单  
 2018-05-27 增添我的豆列、素封老师情感故事  
