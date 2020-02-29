@@ -44,11 +44,14 @@
 
 * [老婆推专门博开博_王烁_新浪博客](http://blog.sina.com.cn/s/blog_61c51bd70100k7ka.html)
 
-## 附
-* [老婆推与一粒米若水 mobi 版](https://pan.baidu.com/s/1veMFNvEqClrk04P9l14pVA)
+## 情侣间的建议
+- [连岳婚前 15 问](https://github.com/myerandme/ToFutureGirlfriend/blob/master/lianyue%EF%BC%9AMarriage15AsK.md)
+- [恋爱行为及心理指南 - 笨方法学写作](https://www.cnfeat.com/blog/2014/03/19/love-guide/)
+- [情侣之间的同步沟通与异步沟通](https://github.com/myerandme/ToFutureGirlfriend/blob/master/Communicate.md)
 
 ### ChangeLog
 
+2020-02-29 增添情侣间建议，删掉 mobi
 2018-09-04 更新老婆推 mobi 版与一个人的微博
 2018-06-15 增添王烁老婆推相关文章  
 2018-06-08 增添自己的故事  
