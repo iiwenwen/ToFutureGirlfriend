@@ -6,11 +6,12 @@
 
 前阵子看完《头号玩家》心起念头，就想留下我的人生彩蛋作为礼物送给未来女朋友。  
 
-受陈素封老师启发，决心写本女朋友使用手册，本仓库即为彩蛋也是女朋友使用手册。 
+受陈素封老师启发，决心写本女朋友使用手册，本仓库即为彩蛋也是女朋友使用手册。（前提是有女朋友，哈哈）
 
 ## 一个人的微博
 
 - [文大人](http://murwen.lofter.com/)
+- [碎言碎语](https://mur.syaoran.me/)
 
 一个人的微博，总有某些时候，总有某些话，你只想对自己说。逃离这个世界的关注，在某个角落里，静静书写你的情感。
 
@@ -22,12 +23,11 @@
 * 我相信音乐的力量[网易云音乐歌单：ONE](http://music.163.com/playlist?id=391105952&userid=112833822)
 
 ##  我的故事
-* [写给未来女朋友的一封信 | Syaoran](http://blgo.syaoran.me/blgo/ALetterToAFutureGirlfriend.html)
-* [给过去自己的一封信 | Syaoran](http://blgo.syaoran.me/blgo/ToMyselfLetter.html)
+* [写给未来女朋友的一封信 | Syaoran](http://blog.syaoran.me/blgo/ALetterToAFutureGirlfriend.html)
+* [给过去自己的一封信 | Syaoran](http://blog.syaoran.me/blgo/ToMyselfLetter.html)
 
 ## 来自陈素封老师的情感故事
 * [cnfeat/Yilee: 李小姐使用手册](https://github.com/cnfeat/Yilee)
-* [Blog - 一粒米若水](http://www.yilee.me/)
 * [笨方法学写作](http://www.cnfeat.com/)
 * [给过去自己的一封信 - 笨方法学写作](http://www.cnfeat.com/blog/2017/03/03/a-letter-to-myself-in-that-past/)
 * [你好哇，情感](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639261&idx=1&sn=35afc9effa2f010ee36d34b32ec3edea&chksm=879dc0b2b0ea49a4f6f044740b1a152245440ae3b56a5602ba0d385cdd66819ebc56791bf449#rd)
@@ -40,9 +40,6 @@
 * [跟王烁「老婆推」学记趣和爱 · 杂记 | ishanshan's blog](http://ishanshan.top/selfedu/TipsLiveAFascinatingLife.html)
 * [王烁老婆推精选 - WorkFlowy](https://workflowy.com/s/CO_N.3qiR2I8Pry)
 
-### 王烁的老婆推
-
-* [老婆推专门博开博_王烁_新浪博客](http://blog.sina.com.cn/s/blog_61c51bd70100k7ka.html)
 
 ## 情侣间的建议
 - [连岳婚前 15 问](https://github.com/myerandme/ToFutureGirlfriend/blob/master/lianyue%EF%BC%9AMarriage15AsK.md)
@@ -51,6 +48,7 @@
 
 ### ChangeLog
 
+220329 删除失效链接，增加另一个自己的碎言碎语
 2020-02-29 增添情侣间建议，删掉 mobi  
 2018-09-04 更新老婆推 mobi 版与一个人的微博  
 2018-06-15 增添王烁老婆推相关文章  
